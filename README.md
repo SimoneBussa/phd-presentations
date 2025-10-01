@@ -1,7 +1,7 @@
 # phd-presentations
 Collection of presentations and talks I gave during my PhD research.
 
-### Final Phd dissertation
+### Phd final dissertation
 - **Presentation title:** Formal Cybersecurity Techniques for Cyber Physical Systems
 - **File:** 2025-phd-dissertation.pdf
 - **Linked thesis:** https://iris.polito.it/handle/11583/3001297
@@ -30,6 +30,9 @@ Collection of presentations and talks I gave during my PhD research.
 - **Linked paper:** https://ieeexplore.ieee.org/abstract/document/10453172
 - **Date:** November 08, 2023
   
-
+### Seminar on Security and Privacy for Digital Identity Frameworks
+- **Presentation title:** OAuth 2.0: Security Considerations
+- **File:** 2024-seminar-oauth2-security-considerations
+- **Date:** July 22, 2022
 
 
